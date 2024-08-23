@@ -1,0 +1,9 @@
+Name: Insert comma-space
+Description: Inserts comma and space after moving the cursor one space to the right.
+Binding: insertComma
+Interactive: false
+
+Name: Move one space right
+Description: Move cursor one space to the right from current position.
+Binding: moveOneRight
+Interactive: false
